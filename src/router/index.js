@@ -4,6 +4,8 @@ import routes from './routes'
 
 // Linea de prueba
 
+
+
 /*
  * If not building with SSR mode, you can
  * directly export the Router instantiation;
