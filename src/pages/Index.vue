@@ -1,10 +1,13 @@
 <template>
   <q-page class="flex flex-center">
-    <img
+    
+    <h1>Esto es un mensaje</h1>
+    
+<!--     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-vertical.svg"
       style="width: 200px; height: 200px"
-    >
+    > -->
   </q-page>
 </template>
 
